@@ -1,0 +1,246 @@
+a {
+  text-decoration: none;
+}
+
+.container2 {
+  width: 1170px;
+  padding: 0 15px;
+  margin: 0 auto;
+  animation-name: example;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+}
+
+.top-wrapper {
+  padding: 188px 0 100px 0;
+  background-image: url(https://i.postimg.cc/c4XCm24y/photo-1531147646552-1eec68116469.jpg);
+  background-size: cover;
+  color: white;
+  text-align: center;
+}
+
+.top-wrapper h1 {
+  opacity: 0.7;
+  font-size: 50px;
+  letter-spacing: 5px;
+  margin-bottom: 10px;
+}
+
+.top-wrapper p {
+  opacity: 0.7px;
+  margin-bottom: 10px;
+}
+
+.btn {
+  padding: 12px 24px;
+  color: white;
+  display: inline-block;
+  opacity: 0.7;
+  border-radius: 4px;
+}
+
+.btn:hover {
+  opacity: 1;
+}
+
+.btn-signup {
+  background-color: crimson;
+}
+
+.btn-facebook {
+  background-color: crimson;
+  margin-right: 10px;
+}
+
+.btn-twitter{
+  background-color: crimson;
+}
+
+.btn-kontak {
+    color: #333;
+    box-shadow: -3px 3px crimson, -2px 2px crimson, -1px 1px crimson;
+    border: 3px solid orange;
+    background-color: orange;
+}
+
+header {
+  height: 50px;
+  width: 100px;
+  background-color: aquamarine;
+  animation-name: fadeIn;
+}
+
+@keyframes example{
+  0%   {background-color: #FFA5A6;}
+  25%  {background-color: #FFFCBA;}
+  50%  {background-color: #BAFFF8;}
+  100% {background-color: #FFA5A6;}
+}
+    .mew {
+        position: relative;
+        top: -webkit-calc(50% - 60px);
+        top: calc(50% - 60px);
+        text-shadow: 0px 0px 3px white;
+    }
+    .mew:nth-child(1) {
+        -webkit-animation: fade 4s infinite 200ms;
+        animation: fade 4s infinite 200ms;
+    }
+    .mew:nth-child(2) {
+        -webkit-animation: fade 4s infinite 400ms;
+        animation: fade 4s infinite 400ms;
+    }
+    .mew:nth-child(3) {
+        -webkit-animation: fade 4s infinite 600ms;
+        animation: fade 4s infinite 600ms;
+    }
+    .mew:nth-child(4) {
+        -webkit-animation: fade 4s infinite 800ms;
+        animation: fade 4s infinite 800ms;
+    }
+    .mew:nth-child(5) {
+        -webkit-animation: fade 4s infinite 1000ms;
+        animation: fade 4s infinite 1000ms;
+    }
+    .mew:nth-child(6) {
+        -webkit-animation: fade 4s infinite 1200ms;
+        animation: fade 4s infinite 1200ms;
+    }
+    .mew:nth-child(7) {
+        -webkit-animation: fade 4s infinite 1400ms;
+        animation: fade 4s infinite 1400ms;
+    }
+    @-webkit-keyframes fade {
+        50% {
+            opacity: 0.02;
+        }
+    }
+    @keyframes fade {
+        50% {
+            opacity: 0.02;
+        }
+}
+
+@media only screen and (min-width: 600px)
+a {
+  text-decoration: none;
+}
+
+.container2 {
+  width: 1170px;
+  padding: 0 15px;
+  margin: 0 auto;
+  animation-name: example;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+}
+
+.top-wrapper {
+  padding: 188px 0 100px 0;
+  background-image: url(https://i.postimg.cc/c4XCm24y/photo-1531147646552-1eec68116469.jpg);
+  background-size: cover;
+  color: white;
+  text-align: center;
+}
+
+.top-wrapper h1 {
+  opacity: 0.7;
+  font-size: 50px;
+  letter-spacing: 5px;
+  margin-bottom: 10px;
+}
+
+.top-wrapper p {
+  opacity: 0.7px;
+  margin-bottom: 10px;
+}
+
+.btn {
+  padding: 12px 24px;
+  color: white;
+  display: inline-block;
+  opacity: 0.7;
+  border-radius: 4px;
+}
+
+.btn:hover {
+  opacity: 1;
+}
+
+.btn-signup {
+  background-color: crimson;
+}
+
+.btn-facebook {
+  background-color: crimson;
+  margin-right: 10px;
+}
+
+.btn-twitter{
+  background-color: crimson;
+}
+
+.btn-kontak {
+    color: #333;
+    box-shadow: -3px 3px crimson, -2px 2px crimson, -1px 1px crimson;
+    border: 3px solid orange;
+    background-color: orange;
+}
+
+header {
+  height: 50px;
+  width: 100px;
+  background-color: aquamarine;
+  animation-name: fadeIn;
+}
+
+@keyframes example{
+  0%   {background-color: #FFA5A6;}
+  25%  {background-color: #FFFCBA;}
+  50%  {background-color: #BAFFF8;}
+  100% {background-color: #FFA5A6;}
+}
+    .mew {
+        position: relative;
+        top: -webkit-calc(50% - 60px);
+        top: calc(50% - 60px);
+        text-shadow: 0px 0px 3px white;
+    }
+    .mew:nth-child(1) {
+        -webkit-animation: fade 4s infinite 200ms;
+        animation: fade 4s infinite 200ms;
+    }
+    .mew:nth-child(2) {
+        -webkit-animation: fade 4s infinite 400ms;
+        animation: fade 4s infinite 400ms;
+    }
+    .mew:nth-child(3) {
+        -webkit-animation: fade 4s infinite 600ms;
+        animation: fade 4s infinite 600ms;
+    }
+    .mew:nth-child(4) {
+        -webkit-animation: fade 4s infinite 800ms;
+        animation: fade 4s infinite 800ms;
+    }
+    .mew:nth-child(5) {
+        -webkit-animation: fade 4s infinite 1000ms;
+        animation: fade 4s infinite 1000ms;
+    }
+    .mew:nth-child(6) {
+        -webkit-animation: fade 4s infinite 1200ms;
+        animation: fade 4s infinite 1200ms;
+    }
+    .mew:nth-child(7) {
+        -webkit-animation: fade 4s infinite 1400ms;
+        animation: fade 4s infinite 1400ms;
+    }
+    @-webkit-keyframes fade {
+        50% {
+            opacity: 0.02;
+        }
+    }
+    @keyframes fade {
+        50% {
+            opacity: 0.02;
+        }
+}
